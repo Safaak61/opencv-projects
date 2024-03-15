@@ -14,4 +14,4 @@ cv2.waitKey(0)
 cv2.imwrite("HarryPotter.jpg", timg, [cv2.IMWRITE_JPEG_QUALITY,50])
 ```
 
-<img src="project/load-display-image/HarryPottr.jpg" alt="Safa Ak Harry Potter" width="500" height=auto>
+<img src="project/load-display-image/HarryPotter.jpg" alt="Safa Ak Harry Potter" width="500" height=auto>
